@@ -56,7 +56,7 @@ coverage.xml
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb
 
 # mypy
 .mypy_cache/
